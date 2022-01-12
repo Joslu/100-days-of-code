@@ -8,3 +8,7 @@ print("Challenge Accepted")
 ## Day 1
 ### Working with variables in Python to manage data
 
+## Day 2
+### Understanding datatypes and how to manipulate strings
+
+
