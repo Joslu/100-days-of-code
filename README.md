@@ -7,8 +7,15 @@ print("Challenge Accepted")
 ```
 ## Day 1
 ### Working with variables in Python to manage data
-
+---
 ## Day 2
 ### Understanding datatypes and how to manipulate strings
+---
+## Day 3
+### Control flow and logical operators
+
+
+---
+
 
 
