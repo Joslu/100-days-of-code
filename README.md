@@ -14,6 +14,9 @@ print("Challenge Accepted")
 ## Day 3
 ### Control flow and logical operators
 
+## Day 4
+### Randomisation and Python List
+
 
 ---
 
