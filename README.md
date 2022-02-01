@@ -7,15 +7,23 @@ print("Challenge Accepted")
 ```
 ## Day 1
 ### Working with variables in Python to manage data
+#### 🎹 Band Name Generator
 ---
 ## Day 2
 ### Understanding datatypes and how to manipulate strings
+#### 💸 Tip Calculator
 ---
 ## Day 3
 ### Control flow and logical operators
+#### 🏝️ Treasure Island 
 
 ## Day 4
 ### Randomisation and Python List
+#### ✋👊 ✌️ Rock Paper Scissors
+
+## Day 5
+### For loops, Range and Code Blocks
+#### 🤖 Password generator
 
 
 ---
