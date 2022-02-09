@@ -16,16 +16,19 @@ print("Challenge Accepted")
 ## Day 3
 ### Control flow and logical operators
 #### 🏝️ Treasure Island 
-
+---
 ## Day 4
 ### Randomisation and Python List
 #### ✋👊 ✌️ Rock Paper Scissors
-
+---
 ## Day 5
 ### For loops, Range and Code Blocks
-#### 🤖 Password generator
+#### 🕹️ Password generator
+---
 
-
+## Day 6
+### Functions, Code Blocks and While loops
+#### 🤖 Karel the Robot
 ---
 
 
