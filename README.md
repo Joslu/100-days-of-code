@@ -29,7 +29,10 @@ print("Challenge Accepted")
 ## Day 6
 ### Functions, Code Blocks and While loops
 #### 🤖 Karel the Robot
----
 
+---
+## Day 7
+### Hangman Project
+#### 👨‍🚀
 
 
