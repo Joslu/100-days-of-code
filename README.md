@@ -39,3 +39,13 @@ print("Challenge Accepted")
 ## Day 8
 ### Functions with input
 #### Caesar Cipher 🤷‍♂️
+
+
+.
+.
+.
+.
+
+## Day 15
+### Local Development Environment Setup
+#### Coffee Machine Project ☕
