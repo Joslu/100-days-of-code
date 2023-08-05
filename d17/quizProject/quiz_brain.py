@@ -28,5 +28,5 @@ class Quiz:
         print(f'Current score: {self.score}/{self.question_number}')
 
     def get_grade(self):
-        return (10 * (int(self.score))) / len(self.question_list)
+        return round((10 * (int(self.score))) / len(self.question_list), 2)
 
